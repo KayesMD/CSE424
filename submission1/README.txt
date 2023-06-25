@@ -2,13 +2,13 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/5387191749bpkhfnqgtmtt
 
 Link to unlisted YouTube video:
-https://youtube.com/playlist?list=PLUiNmRtLPy_g6AiZDfjRtzOnkr-j8zXrp
+https://youtu.be/a6PSvinTkec
 
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1D15vTpJCHTAgMwZkfdzzyjS3l6NbOs1Kfv50le74nho/edit?usp=sharing
 
 Project title:
-2023 Summer CSE424 Smart OCR for Recognising Bangla Characters. 
+2023 Summer CSE424 Smart OCR for Recognizing Bangla Characters. 
 
 Group Number:
 30
